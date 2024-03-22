@@ -1,5 +1,5 @@
 # Grammar-based Data Augmentation for Low-Resource Languages - NAACL2024
-This repository contains information about the code and resources used in the "Grammar-based Data Augmentation for Low-Resource Languages: The Case of Guarani-Spanish Neural Machine Translation" paper, accepted at NAACL2024.
+This repository contains information about the code and resources used in the *Grammar-based Data Augmentation for Low-Resource Languages: The Case of Guarani-Spanish Neural Machine Translation* paper, accepted at NAACL2024.
 
 ✨**TL;DR**✨ In this work we explore the feasability of using grammar-generated text as a Data Augmentation strategy for low-resource languages, and we find that synthetic text is useful to boost Guarani-Spanish Machine Translation systems.
 
