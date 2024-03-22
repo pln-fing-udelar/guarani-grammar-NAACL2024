@@ -21,7 +21,7 @@ One of the main components of this work is the development of a Feature Grammar 
 
 ### NMT experiments using MarianNMT (C++)
 
-The experiments were carried out using MarianNMT in [the main Uruguayan supercomputing center](https://cluster.uy/). You can find the [code here](https://github.com/baladon-lucas-pardinas/NMT-Translation-gn-es).
+The experiments were carried out using MarianNMT. You can find the [code here](https://github.com/baladon-lucas-pardinas/NMT-Translation-gn-es).
 
 ### Jojajovai corpus
 
