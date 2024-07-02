@@ -29,14 +29,11 @@ To fine-tune and test the models we use the [Jojajovai parallel corpus](https://
 
 ## Paper
 
-Published paper (ACL Anthology): URL not published yet
+Published paper (ACL Anthology): https://aclanthology.org/2024.naacl-long.354/
 
 ## Citation
 
 If you use some part of this work in your research, please cite:
 
-```
-Coming soon
-
-```
+Agustín Lucas, Alexis Baladón, Victoria Pardiñas, Marvin Agüero-Torales, Santiago Góngora, and Luis Chiruzzo. 2024. Grammar-based Data Augmentation for Low-Resource Languages: The Case of Guarani-Spanish Neural Machine Translation. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pages 6385–6397, Mexico City, Mexico. Association for Computational Linguistics.
 
